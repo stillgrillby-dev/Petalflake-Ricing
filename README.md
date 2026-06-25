@@ -5,6 +5,8 @@ Current Build will always have my up to date build/ latest Build. I will manuall
 
 # MORE TO BE ADDED
 
+![Img1](https://github.com/stillgrillby-dev/Petalflake-Ricing/blob/main/20047.jpg)
+
 # Current Build ☆
 
 KDE Plasma 6
