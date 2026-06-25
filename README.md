@@ -19,4 +19,5 @@ Gruvbox Light them for KDE
 Custom Gruvbox Light Konsole config
 
 ---
--[MAN](https://github.com/stillgrillby-dev/Petalflake-Ricing/blob/main/61e75fa4-153a-465a-ba79-25330ee13507_text.gif)
+
+![MAN](https://github.com/stillgrillby-dev/Petalflake-Ricing/blob/main/61e75fa4-153a-465a-ba79-25330ee13507_text.gif)
